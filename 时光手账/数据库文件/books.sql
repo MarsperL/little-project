@@ -1,0 +1,1 @@
+SELECT * FROM newsdb.books;

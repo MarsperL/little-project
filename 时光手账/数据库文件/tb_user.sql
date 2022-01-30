@@ -1,1 +1,0 @@
-SELECT * FROM newsdb.tb_user;
